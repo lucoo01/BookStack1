@@ -1,4 +1,4 @@
-module github.com/TruthHun/BookStack
+module github.com/lucoo01/BookStack1
 
 go 1.16
 
